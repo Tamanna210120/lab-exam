@@ -9,6 +9,9 @@ import Root from './Components/Root/Root';
 import Home from './Components/Home';
 import Item1 from './Components/Item1';
 import Item2 from './Components/Item2';
+import LogIn from './Components/login';
+import Register from './Components/Register';
+import AuthProvider from './Components/AuthProvider';
 
 
 const router = createBrowserRouter([
@@ -21,12 +24,12 @@ const router = createBrowserRouter([
         element:<Home></Home>
       },
       {
-        path:"/item-1",
-        element:<Item1></Item1>
+        path:"/login",
+        element:<LogIn></LogIn>
       },
       {
-        path:"/item-2",
-        element:<Item2></Item2>
+        path:"/register",
+        element:<Register></Register>
       }
 
     ]
@@ -35,6 +38,8 @@ const router = createBrowserRouter([
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <RouterProvider router={router} />
+    <AuthProvider>
+      <RouterProvider router={router} />
+    </AuthProvider>
   </StrictMode>,
 )
