@@ -1,0 +1,106 @@
+[{
+        "name": "Square Pharmaceuticals",
+        "sector": "Pharmaceutical",
+        "logo": "https://www.squarepharma.com.bd/images/logo.png",
+        "headquarter": "Dhaka",
+        "founded": 1958
+    },
+    {
+        "name": "Beximco Pharmaceuticals",
+        "sector": "Pharmaceutical",
+        "logo": "https://www.beximcopharma.com/wp-content/themes/bpl/images/logo.png",
+        "headquarter": "Dhaka",
+        "founded": 1976
+    },
+    {
+        "name": "Grameenphone",
+        "sector": "Telecommunication",
+        "logo": "https://www.grameenphone.com/resources/images/logo-gp.svg",
+        "headquarter": "Dhaka",
+        "founded": 1997
+    },
+    {
+        "name": "Robi Axiata",
+        "sector": "Telecommunication",
+        "logo": "https://www.robi.com.bd/en/frontend/images/logo.svg",
+        "headquarter": "Dhaka",
+        "founded": 1997
+    },
+    {
+        "name": "Bangladesh Steel Re-Rolling Mills (BSRM)",
+        "sector": "Steel",
+        "logo": "https://www.bsrm.com.bd/wp-content/uploads/2020/06/bsrm-logo.png",
+        "headquarter": "Chittagong",
+        "founded": 1952
+    },
+    {
+        "name": "Akij Group",
+        "sector": "Conglomerate",
+        "logo": "https://akij.net/wp-content/uploads/2021/11/akij-group-logo.png",
+        "headquarter": "Dhaka",
+        "founded": 1950
+    },
+    {
+        "name": "Pran-RFL Group",
+        "sector": "Food & Consumer Goods",
+        "logo": "https://www.pranfoods.net/image/catalog/logo.png",
+        "headquarter": "Dhaka",
+        "founded": 1981
+    },
+    {
+        "name": "Walton Hi-Tech Industries",
+        "sector": "Electronics & Appliances",
+        "logo": "https://www.waltonbd.com/image/logo.png",
+        "headquarter": "Gazipur",
+        "founded": 1977
+    },
+    {
+        "name": "Bashundhara Group",
+        "sector": "Conglomerate",
+        "logo": "https://www.bashundharagroup.com/template/images/logo.png",
+        "headquarter": "Dhaka",
+        "founded": 1987
+    },
+    {
+        "name": "ACI Limited",
+        "sector": "Conglomerate",
+        "logo": "https://www.aci-bd.com/wp-content/uploads/2020/04/aci-logo.png",
+        "headquarter": "Dhaka",
+        "founded": 1968
+    },
+    {
+        "name": "City Group",
+        "sector": "Food & Consumer Goods",
+        "logo": "https://citygroup.com.bd/wp-content/uploads/2021/06/city-group-logo.png",
+        "headquarter": "Dhaka",
+        "founded": 1972
+    },
+    {
+        "name": "Meghna Group of Industries",
+        "sector": "Conglomerate",
+        "logo": "https://www.mgi-bd.com/assets/images/logo.png",
+        "headquarter": "Dhaka",
+        "founded": 1976
+    },
+    {
+        "name": "Bangladesh Export Import Company (BEXIMCO)",
+        "sector": "Conglomerate",
+        "logo": "https://www.beximco.com/wp-content/themes/beximco/images/logo.png",
+        "headquarter": "Dhaka",
+        "founded": 1972
+    },
+    {
+        "name": "Transcom Group",
+        "sector": "Conglomerate",
+        "logo": "https://www.transcomgroup.com/images/logo.png",
+        "headquarter": "Dhaka",
+        "founded": 1885
+    },
+    {
+        "name": "Nitol Niloy Group",
+        "sector": "Conglomerate",
+        "logo": "https://www.nitol-niloy.com/wp-content/uploads/2021/06/nitol-niloy-logo.png",
+        "headquarter": "Dhaka",
+        "founded": 1985
+    }
+]
